@@ -34,7 +34,7 @@ To use the HR Analytics dashboard:
 
 # Dashboard
 
-![ezgif-6-09a978cfe5](https://github.com/Sagarparkhe/AtliQ-Attendance-Insights---HR-Analytics/assets/171353864/ca1c4bd8-4961-41b1-8b08-ebf0d1a37b39)
+![AtliQ Attendance Insights HR Analytics _page-0001](https://github.com/Sagarparkhe/AtliQ-Attendance-Insights-HR-Analytics/assets/171353864/2ca5a8f9-5b2b-4c51-9a5d-e41fdf00094e)
 
 # Data Sources
 
